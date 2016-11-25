@@ -7,7 +7,6 @@ setup(name='plotcsv',
       author='Shohei Aoki',
       author_email='shoaok@gmail.com',
       scripts=['bin/plotcsv'],
-      install_requires=open('requirements.txt').read().splitlines(),
       license='MIT',
       packages=['plotcsv'],
       zip_safe=False)
