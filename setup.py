@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='plotcsv',
-      version='0.1',
+      version='0.1.0',
       description='Plot CSV with matplotlib',
       url='http://github.com/shohei/plotcsv',
       author='Shohei Aoki',
