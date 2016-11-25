@@ -1,0 +1,9 @@
+#!/Users/shohei/.pyenv/versions/anaconda2-4.1.0/bin/python
+import plotcsv
+import sys
+
+args = sys.argv
+if len(args) < 2:
+    sys.exit()
+
+plotcsv.do_plot(args[1])
