@@ -1,0 +1,5 @@
+# plotcsv
+
+```
+$ plotcsv hoge.csv
+```
