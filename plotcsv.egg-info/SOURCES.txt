@@ -6,5 +6,4 @@ plotcsv.egg-info/PKG-INFO
 plotcsv.egg-info/SOURCES.txt
 plotcsv.egg-info/dependency_links.txt
 plotcsv.egg-info/not-zip-safe
-plotcsv.egg-info/requires.txt
 plotcsv.egg-info/top_level.txt
