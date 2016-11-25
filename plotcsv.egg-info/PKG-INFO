@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: plotcsv
-Version: 0.1.0
+Version: 0.1.1
 Summary: Plot CSV with matplotlib
 Home-page: http://github.com/shohei/plotcsv
 Author: Shohei Aoki
